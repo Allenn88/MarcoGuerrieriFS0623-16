@@ -1,0 +1,80 @@
+body{
+    text-align: center;
+}
+
+.sidebar{
+    background-color: #FEF7E2;
+    border-radius: 50px
+}
+.shop{
+    background-color: #FFDF7F;
+    width: 100px;
+    height: auto;
+    border-radius: 50px;
+}
+.honey{
+    background-color: #FFDF7F;
+    width: 50px;
+    height: auto;
+    border-radius: 50px;
+}
+.mieleT{
+    background-color: #FFDF7F;
+    width: 100px;
+    height: auto;
+    border-radius: 50px;
+}
+.facilities{
+    background-color: #FFDF7F;
+    width: 75px;
+    height: auto;
+    border-radius: 50px;
+}
+.contatti{
+    background-color: #FFDF7F;
+    width: 75px;
+    height: auto;
+    border-radius: 50px;
+}
+.articolo1{
+    background-color: #FFDF7F;
+}
+.articolo1 img{
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+}
+.articolo2{
+    background-color: #FFDF7F;
+}
+.articolo2 img{
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+}
+.articolo3{
+    background-color: #FFDF7F;
+}
+.articolo3 img{
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+}
+.articolo4{
+    background-color: #FFDF7F;
+}
+.articolo4 img{
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+}
+.fondo{
+    background-color: #FFDF7F;
+    border-radius: 40px;
+}
+@media screen and (max-width:575px) {
+header nav{
+    align-items: center;
+}
+.sidebarmiele{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+}
